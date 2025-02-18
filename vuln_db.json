@@ -1,0 +1,6 @@
+{
+    "21": "FTP: Riesgo de acceso anónimo o explotación de vulnerabilidades en el protocolo FTP.",
+    "22": "SSH: Posible vulnerabilidad en versiones antiguas del servidor SSH.",
+    "80": "HTTP: Riesgo de inyección SQL o problemas de configuración en servidores web.",
+    "443": "HTTPS: Configuraciones inseguras en TLS/SSL o certificados expirados."
+}

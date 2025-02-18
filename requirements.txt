@@ -1,0 +1,6 @@
+pywifi
+scapy
+requests
+beautifulsoup4
+colorama
+nmap
